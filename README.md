@@ -26,12 +26,20 @@ As a rocket scheduler, I would like to see the current schedule, so I can plan m
 4. A user should be able to see the rocket launch schedule
 5. A user should be able to schedule new rocket launch(s)
 
-![alt text](launch-scheduler.png "Title")
+![alt text](launch-scheduler.png "Launch Scheduler Sketch")
+
 ## Technical Recommendations:
 
 - Using packages/libraries are fine where consideration is made
-- You can find available SpaceX API for launches here
+- You can find an available SpaceX API for launches [here](https://docs.spacexdata.com/#bc65ba60-decf-4289-bb04-4ca9df01b9c1)
 - Routes:
   - `/launches`
   - `/launches/new`
+
+## Other Requirements:
+Please include a file that summarises the challenges you had. The summary should include:
+- how you approached it
+- what you tried
+- what you learned, and
+- the final solution
 
