@@ -4,7 +4,7 @@ The goal of this task is to share your knowledge around building user facing app
 
 Once you are happy with your project, please share a link to where we can view the codebase, with instructions on how to install/run the application on a README. Please use GIT for version control.
 
-# General:
+## General:
 **Level:** Mid-Frontend Engineer
 
 **Time-frame:** Maximum 1 week (note: the challenge is to share your knowledge, not how much of the challenge you complete)
@@ -13,7 +13,7 @@ Once you are happy with your project, please share a link to where we can view t
 
 **Sharing:** GitHub (preferred)
 
----
+
 
 ## Story:
 As a rocket scheduler, I would like to see the current schedule, so I can plan more rocket launches.
